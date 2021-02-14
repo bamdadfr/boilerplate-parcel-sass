@@ -1,8 +1,4 @@
-#
-
-<p>
-    boilerplate-parcel-sass
-</p>
+# boilerplate-parcel-sass
 
 <p>
     <img alt="dependencies" src="https://img.shields.io/david/bamdadsabbagh/boilerplate-parcel-sass">
