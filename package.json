@@ -1,0 +1,19 @@
+{
+  "name": "boilerplate-parcel-sass",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "lint": "eslint src --fix --ext .js",
+    "package:clean": "rm -rf node_modules",
+    "package:reinstall": "yarn package:clean && yarn",
+    "package:sort": "npx sort-package-json",
+    "start": "yarn dev"
+  },
+  "devDependencies": {
+    "@bamdadsabbagh/eslint-config": "^1.7.0",
+    "@bamdadsabbagh/stylelint-config": "^1.2.186",
+    "parcel": "^1.12.4",
+    "sass": "^1.32.7"
+  }
+}
