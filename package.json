@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "parcel src/index.html",
     "lint": "eslint src --fix --ext .js",
-    "package:clean": "rimraffix( node_modules",
+    "package:clean": "rimraf node_modules",
     "package:reinstall": "yarn package:clean && yarn",
     "package:sort": "npx sort-package-json",
     "start": "yarn dev"
