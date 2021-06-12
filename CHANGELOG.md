@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/bamdadsabbagh/boilerplate-parcel-sass/compare/v1.0.0...v1.0.1) (2021-06-12)
+
+
+### Bug Fixes
+
+* asfalte: 🔨 git-commit-force-release--onPush ([d895ff6](https://github.com/bamdadsabbagh/boilerplate-parcel-sass/commit/d895ff67c025a2bf2f30bae94e272a822f43a843))
+* **package.json:** fix typo ([48590db](https://github.com/bamdadsabbagh/boilerplate-parcel-sass/commit/48590db74f635949a88116e1b5c6e3f2b051dea6))
+
 # 1.0.0 (2021-06-12)
 
 
