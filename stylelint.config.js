@@ -1,3 +1,3 @@
-{
-  "extends": "@bamdadsabbagh/stylelint-config"
+module.exports = {
+    'extends': '@bamdadsabbagh/stylelint-config',
 }
