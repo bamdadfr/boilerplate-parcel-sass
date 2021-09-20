@@ -1,3 +1,13 @@
+## [1.0.16](https://github.com/bamdadsabbagh/boilerplate-parcel-sass/compare/v1.0.15...v1.0.16) (2021-09-20)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade--onMondays-1000 ([6e1a28e](https://github.com/bamdadsabbagh/boilerplate-parcel-sass/commit/6e1a28ea9a63fae687a13a14117b6a03f14bfb80))
+* **ci:** update release workflows ([bf2a6ee](https://github.com/bamdadsabbagh/boilerplate-parcel-sass/commit/bf2a6ee7696dbaa666f3e2e02096c825b9d68b1b))
+* **CI:** use node version 14 in pipelines + fix configs ([568e6fc](https://github.com/bamdadsabbagh/boilerplate-parcel-sass/commit/568e6fc412d07e9fa794530cc19a0efd77acfd01))
+* use node version 14 in pipelines + update configs ([e957549](https://github.com/bamdadsabbagh/boilerplate-parcel-sass/commit/e9575492d0e7971a69cd605e84a61975c7345adf))
+
 ## [1.0.15](https://github.com/bamdadsabbagh/boilerplate-parcel-sass/compare/v1.0.14...v1.0.15) (2021-09-13)
 
 
