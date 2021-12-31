@@ -16,7 +16,7 @@
     "@parcel/transformer-sass": "2.0.0-beta.2",
     "parcel": "^2.0.0-beta.2",
     "rimraf": "^3.0.2",
-    "sass": "^1.34.1",
+    "sass": "^1.45.2",
     "sass-reset": "^1.0.2"
   }
 }
