@@ -1,3 +1,10 @@
+## [1.0.61](https://github.com/bamdadsabbagh/boilerplate-parcel-sass/compare/v1.0.60...v1.0.61) (2022-08-01)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade--onMondays-1000 ([cdc6559](https://github.com/bamdadsabbagh/boilerplate-parcel-sass/commit/cdc6559146a991e7431da83034df2d8078061c1c))
+
 ## [1.0.60](https://github.com/bamdadsabbagh/boilerplate-parcel-sass/compare/v1.0.59...v1.0.60) (2022-07-25)
 
 
