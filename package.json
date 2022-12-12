@@ -1,6 +1,6 @@
 {
   "name": "boilerplate-parcel-sass",
-  "version": "1.0.79",
+  "version": "1.0.80",
   "license": "MIT",
   "scripts": {
     "dev": "parcel src/index.html",
